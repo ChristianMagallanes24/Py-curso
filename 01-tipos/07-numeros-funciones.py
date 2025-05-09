@@ -13,3 +13,5 @@ print(math.isnan(23)) # Devuelve si no es un numero
 print(math.pow(10, 3)) # Eleva un numero en este caso 10 a la 3
 print(math.sqrt(5)) # Devuelve la raiz cuadrada
 
+
+print(math.floor(3.5))
